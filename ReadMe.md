@@ -9,13 +9,9 @@
 | Name      | Associated task |Vocabulary |Country |
 | ----------- | ----------- |----------- |----------- |
 | CCLS     | CSLR/SLT/ISLR       |181       |China       |
-
 | Language level      | Signer |Entity video |Template video |
-| ----------- | ----------- |----------- |----------- |
 | Word/Sentence   | 10        |13,000        |4,700        |
-
 | Complete video      | Total number of samples |Training videos (combined) |Testing videos |
-| ----------- | ----------- |----------- |----------- |
 | 2,000   | 19,700        |20,000      |2,000        |
 
 ### <u>Download:</u>
